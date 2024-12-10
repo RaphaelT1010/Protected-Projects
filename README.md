@@ -3,7 +3,7 @@ These are some projects that have limited acccess mostly because of copyright/pl
 
 - [TCP FAT](https://drive.google.com/drive/folders/1w1nNJL2mCykwrbe4jac59IFNBcAsr5EV?usp=drive_link)
 
-A custom congestion control algoritm which was collaboratively made. Ranked 13th out of 81 groups.
+A custom congestion control algorithm which was collaboratively made. Ranked 13th out of 81 groups.
 TCP Tahoe, TCP Reno and Sliding Window protocols were also made.
 
 - [User Level Thread Library](https://drive.google.com/drive/folders/16ceKbHNhZwZ3bNZLQiuCLZ-IivzPfh8m?usp=drive_link)
